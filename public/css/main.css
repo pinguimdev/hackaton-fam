@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(#0288d1, #005b9f);
+}
+
+.login-form {
+    width: 100% !important;
+    max-width: 600px;
+    background-color: #005b9f;
+}
