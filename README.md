@@ -22,7 +22,7 @@ php artisan key:generate
 ```
 php artisan serve
 ```
-4 - abra o navegador no endereço:
+3 - abra o navegador no endereço:
 ```
 http://localhost:8000
 ```
