@@ -26,3 +26,10 @@ php artisan serve
 ```
 http://localhost:8000
 ```
+4 - usuário e senha abaixo:
+```
+email: admin@admin.com
+```
+```
+senha: admin123
+```
